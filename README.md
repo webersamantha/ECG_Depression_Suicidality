@@ -8,6 +8,6 @@ The code has been written by Mario Müller (mario.mueller@pukzh.ch)
 
 This code has been used to preprocess the ECG recording and HRV measures as derived from HeartPy as described in the paragraph "ECG recording, processing and HRV measures". 
 
-## kmeans_v6.ipybn
+## kmeans_v8.ipybn
 
 This code has been used for the clustering analysis as described in the methods part of the manuscript under "Statistics". 
